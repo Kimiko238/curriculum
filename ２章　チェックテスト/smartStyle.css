@@ -1,0 +1,53 @@
+@media screen and (max-width: 479px){
+    
+    .header {
+        width: 200px;
+        height: 200px;
+    }
+    .bigbox {
+        width: 60px;
+        height: 160px;
+        margin-right: 70px;
+    }
+    
+ 
+    .box {
+        float: none;
+    }
+
+
+    .section1 {
+        float: none;
+        width: 200px;
+        height: 100px;
+    }
+
+    .section2 {
+        float: none;
+        width: 200px;
+        height: 200px;
+        box-sizing: border;
+    }
+
+
+    .bigbox2:first-child {
+        margin-top: 20px;
+    }
+
+    .bigbox2 {
+        display: inline-block;
+        box-sizing: border;
+        width: 150px;
+        height: 50px;
+        background-color: #FFFFFF;
+        margin: 0 auto;
+        margin-left: 25px;
+        margin-bottom: 8px;
+    }
+
+    .footer {
+        width: 200px;
+    }
+
+
+}
